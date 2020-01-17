@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Contracts;
+namespace Valoot\LaravelWeChat\Contracts;
 
 abstract class MenuButton
 {
