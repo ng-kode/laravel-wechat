@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Services\MenuButton;
+namespace Valoot\LaravelWeChat\Services\MenuButton;
 
-use App\Contracts\MenuButton;
+use Valoot\LaravelWeChat\Contracts\MenuButton;
 
 class FirstLevelButton extends MenuButton
 {
